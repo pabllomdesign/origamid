@@ -16,6 +16,7 @@
 > Usado para arquivos internos do site.
 > 
 
+
 **Exemplos de caminhos relativos**
 
 ### /index.html
