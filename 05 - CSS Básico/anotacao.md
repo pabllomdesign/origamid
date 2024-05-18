@@ -35,3 +35,5 @@ Outra forma de linkar é digitando no **`head`** acima de **`<title>`** **link:c
 ### Valor
 
 - Define o valor do novo estilo
+  ![Captura de tela 2024-05-18 195119](https://github.com/pabllomdesign/origamid/assets/157547026/aeef1e09-ab71-4c92-94e7-8ea49f2f428a)
+
