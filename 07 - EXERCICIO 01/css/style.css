@@ -1,0 +1,20 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.estados {
+  color: rgb(19, 160, 106);
+  text-decoration: none;
+}
+
+.hoje {
+  font-size: 20px;
+  font-weight: bold;
+  background-color: rgb(255, 202, 27);
+}
+
+.amanha {
+  font-size: 20px;
+  color: white;
+  background-color: darkred;
+}
