@@ -8,7 +8,8 @@
 
 - Seleciona o a que tiver um p como elemento pai (não precisa ser filho direto)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/048eacc7-34eb-4d77-8b28-93509649fd7e/8b5155b8-1727-4102-aede-77f439d70e62/Untitled.png)
+![Captura de tela 2024-05-18 202803](https://github.com/pabllomdesign/origamid/assets/157547026/a0e6f6e4-a53f-44c5-857d-bf67794c2ee1)
+
 
 ### ID
 
@@ -44,3 +45,5 @@
 ```
 
 **CSS**
+
+![Captura de tela 2024-05-18 210751](https://github.com/pabllomdesign/origamid/assets/157547026/bc9ea9a2-c36f-4fe2-b563-04afa1384cb3)
