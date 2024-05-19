@@ -1,0 +1,45 @@
+/* *Seleciona todos os a que estiver na página e remove a decoração */
+* a {
+  text-decoration: none;
+}
+
+/* * Todo h1 e "a" na página foi definido com a cor blueviolet */
+h1,
+a {
+  color: blueviolet;
+}
+
+/* *Seleciona todos os "a" dentro de span e define a cor como black */
+span a {
+  color: black;
+}
+
+/* *Seleciona todos os "a" dentro de p e define a cor como blueviolet e um backgroud */
+p a {
+  color: blueviolet;
+  background-color: gainsboro;
+}
+
+/* * Uso do ID */
+
+#bike {
+  color: blueviolet;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32px;
+}
+
+#carro {
+  color: blueviolet;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32px;
+}
+
+/* * Uso do CLASS */
+
+.home {
+  padding: 5px;
+  color: rgb(255, 255, 255);
+  font-weight: 400;
+  background-color: rgb(59, 10, 138);
+  border: solid 1px none;
+}
